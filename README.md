@@ -1,6 +1,6 @@
 🎬Customer Segmenentation Analytics - Summary
 ---
-This repository contains a data science mini‑project completed as part of the University of Cambridge programme in Data Science, Machine Learning, and AI. This was the first project submitted as part of the course and focuses on customer segmentation using clustering methods on e‑commerce customer data.
+E-commercecn customer segmentation using clustering methods on e‑commerce customer data.
 The project applies data exploration, feature preparation, clustering, and visualisation techniques, with emphasis placed on understanding results, model behaviour, and practical considerations rather than optimisation.
 
 ✨ Technologies
