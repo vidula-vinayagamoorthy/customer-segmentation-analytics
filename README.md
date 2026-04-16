@@ -11,7 +11,7 @@ Python (google colab) - numpy, pandas, seaborn, matlplotlib, sklearn
 - The data was imported and exploratory data analysis was performed, including review of data quality, missing values, duplicates, and feature distributions. 
 - New features were created to convert transaction‑level data into customer‑level metrics to support segmentation.
 - Different clustering approaches (elbow method, silhouete scores, hierarchical clustering) was applied to identify suitable customer groupings.
-- Different methods were used to assess the optimal number of clusters, followed by clustering and visualisation to support interpretation. 
+- Different methods were used to assess the optimal number of clusters, followed by clustering and visualisation (PCA and T-SNE) to support interpretation. 
 
 Throughout the analysis, observations were reviewed alongside assumptions, subjectivity, and limitations in the methods applied.
 
@@ -22,8 +22,7 @@ The notebook is structured sequentially and can be run end‑to‑end.
 
 🎞️ Preview of the output 
 --- 
-The outputs shows summaries and visualisations on how customers are grouped under different clustering approaches. These outputs are used to support interpretation of segments and discussion of their practical relevance.
-
+The outputs shows summaries and visualisations on how customers are grouped under different clustering approaches. These outputs are used to support interpretation and practical relevance.
 
 🔭 Why this project? 
 --- 
