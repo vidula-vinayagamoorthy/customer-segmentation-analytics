@@ -13,6 +13,8 @@ Python (google colab) - numpy, pandas, seaborn, matlplotlib, sklearn
 - Different clustering approaches (elbow method, silhouete scores, hierarchical clustering) was applied to identify suitable customer groupings.
 - Different methods were used to assess the optimal number of clusters, followed by clustering and visualisation (PCA and T-SNE) to support interpretation. 
 
+<img width="899" height="449" alt="image" src="https://github.com/user-attachments/assets/25f06542-c7d0-4271-947b-a2e188f718b5" />
+
 Throughout the analysis, observations were reviewed alongside assumptions, subjectivity, and limitations in the methods applied.
 
 🚦 Running the Project
